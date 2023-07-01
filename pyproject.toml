@@ -1,0 +1,8 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools>=64.0.0", "wheel"]
+builkd-backend = "setuptools.bui.d_meta"
+
+[project]
+name = "maze-solver"
+version = "1.0.0"
